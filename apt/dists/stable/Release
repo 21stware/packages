@@ -1,0 +1,27 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Sat, 28 Nov 2026 12:16:08 +0000
+Label: bowel
+Origin: bowel
+Suite: stable
+MD5Sum:
+ 76c110f05740d55e3059d760377eea0c             1241 main/binary-amd64/Packages
+ 8d2d8e473147328871d46777f20a4652              639 main/binary-amd64/Packages.gz
+ 9828a893814b6d45a4c0245354d201c8             1241 main/binary-arm64/Packages
+ dd82f21121d13f5f8a21171acb665740              637 main/binary-arm64/Packages.gz
+SHA1:
+ 0fa6581be6cd491f2c30081635e3be5215831c0d             1241 main/binary-amd64/Packages
+ 3ce2ad67dda7c16728a2f189b33a4adcb7dc8ef5              639 main/binary-amd64/Packages.gz
+ f49d4ec26e2bb4efa709d85dd6940a3b6531e7d5             1241 main/binary-arm64/Packages
+ 4f550680e037717532cc4a30bef0ffceb1191d30              637 main/binary-arm64/Packages.gz
+SHA256:
+ 1eed2dcd1ee3287a085225cf8f969a8edb3fc46bd6a89b1888b97cf4e232e766             1241 main/binary-amd64/Packages
+ bb4c3e6eaf4a95d70fc9287b6282b7755bd6082bce8307a709d41bb23e0ffe17              639 main/binary-amd64/Packages.gz
+ 21aabdd8b0da956af4ad0ed2647124e4967f9bae67a48444dc1d3820fb5afa20             1241 main/binary-arm64/Packages
+ a144f145f0f6c9792d7077eea840c2e55e667c37d8b6131eadfe0aa9ef1114ab              637 main/binary-arm64/Packages.gz
+SHA512:
+ ce5adae390626f4d805738d94cdff9831e04e4647fbd9e937f1705ac290b53362b340139d42adcf81c67db5c7d5d59fd9a11d2e933b1daf941fdb90e4ad9071b             1241 main/binary-amd64/Packages
+ df11140e342570eba977da35c0c5b0d2a22ab92e727fd670a7a5d69a6c9d8f5c71aacb68640e908999e867ae7ecb69b75a7c3ae8b8fa82ec4c69fac275c71212              639 main/binary-amd64/Packages.gz
+ 3edcde176f8b315348ab9e405dc5b1b122c8b9255e00a0814cd51a2f06e1464be3903d80d397489ca7df0df978cb2cb7f3b64410552bf293a0d922b15237e4ca             1241 main/binary-arm64/Packages
+ eaad0f79e1ddbd7f548f85097340caa0ff61989ac3fe0a0aeece1f7420649f585c49cc5b57e59ec3befdcf636eac7342ee6ffd52b7792691fdfbcc4933bab0ba              637 main/binary-arm64/Packages.gz

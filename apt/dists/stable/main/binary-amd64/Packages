@@ -1,0 +1,34 @@
+Package: bowel
+Architecture: amd64
+Version: 0.4.10
+Priority: optional
+Section: utils
+Maintainer: bowel
+Installed-Size: 93401
+Depends: libgtk-3-0 | libgtk-3-0t64, libwebkit2gtk-4.1-0
+Filename: pool/main/b/bowel/bowel_0.4.10_amd64.deb
+Size: 37324520
+MD5sum: 03bcb552435ae2c301fa60aa4c249fb3
+SHA1: 862a1e995b89737246c711c9f6a2381524eaf22a
+SHA256: 6077772e94cf043fa87f582be23421038618408786937ef3c48cb6bd953088b6
+SHA512: 9d718c25ca28c10b856cb3356c95a2921c7695638e00d756640368b1ae56089442b56aaecbf099956bf8241c46f48142e5186161a41cc0ffa01b4c6146eb7f7c
+Description: A desktop client for mihomo
+ bowel is a desktop application.
+
+Package: bowel
+Architecture: amd64
+Version: 0.4.9
+Priority: optional
+Section: utils
+Maintainer: bowel
+Installed-Size: 109542
+Depends: libgtk-3-0 | libgtk-3-0t64, libwebkit2gtk-4.1-0
+Filename: pool/main/b/bowel/bowel_0.4.9_amd64.deb
+Size: 50127898
+MD5sum: bcbf70242714e79e1f54d9a66d2ec5cc
+SHA1: 07633711b781c8d28a0600374f041644c253d425
+SHA256: 742196c8e7d57f5e7ae6353f47e35b1a0a55e50c6a349cc745c38d2e0983eb11
+SHA512: 53cb9167daadbf3f901230d7d42c27d266adbe25d70786eac691e78cb8810c0fc54274d36017872c57e530e148cee13720d7ad28853579e94db5d49265ff64ce
+Description: A desktop client for mihomo
+ bowel is a desktop application.
+
